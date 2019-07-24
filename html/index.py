@@ -150,7 +150,7 @@ html =u"""
             }
 
             .tx-list a:hover{
-                color: #337AB7;
+                color: #008000;
             }
 
             .tx-list.txid{
@@ -326,7 +326,7 @@ html =u"""
             }
 
             .panel-default>.panel-heading a[aria-expanded="true"] {
-              background-color: #2196F3;
+              background-color: #008000;
               color: #fff;
               font-weight: bold;
             }
@@ -368,7 +368,7 @@ html =u"""
             {
                 border-radius: 6px;
                 -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-                background-color: #5BB0F7;
+                background-color: #008000;
             }
 
             .modal-progress-subtext{
@@ -384,7 +384,7 @@ html =u"""
             }
 
             .progress-bar-success{
-                background-color: #0c7cd5;
+                background-color: #008000;
             }
         </style>
 
