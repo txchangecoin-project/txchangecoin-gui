@@ -8,7 +8,7 @@ Copyright (c) 2019, Txchangecoin Project
 
 1. Clone the repo:
 		
-		git clone https://github.com/txchangecoin-projects/TXXGUI
+		git clone https://github.com/txchangecoin-projects/txchangecoin-gui2
 
 2. Install dependencies (with Python 2.7):
 
