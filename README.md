@@ -28,6 +28,10 @@ Copyright (c) 2019, Txchangecoin Project
 3. Build/download Txchangecoin binaries from [Txchangecoin repo](https://github.com/txchange-project/txchangecoin) and put it to `Resources/bin` sub-directory.
 
 4. Run the wallet (Python 2.7):
-		
-		cd /path/to/TXXGUI/bin
+		cd txchangecoin-gui2/Resources/
+		mkdir bin
+		cd /bin
+		put txchangecoin-wallet-rpc and txchangecoind into txchangecoin-gui2/Resources/bin
+		cd ../..
+		then run
 		python wallet.py
